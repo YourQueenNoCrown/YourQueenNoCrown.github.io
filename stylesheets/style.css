@@ -7,7 +7,45 @@
 /**********************************
 GENERAL
 ***********************************/
+.intro-section{
+  background: url(http://i482.photobucket.com/albums/rr186/yourqueennocrown/HNCK9042_zps9oxbmkyd.jpg) no-repeat center;
+  background-size: cover;
+  background-color: #FFA383;
+  
+  
+}
 
+.thumbnail_image{
+  max-height:300px;
+  max-width:2000px;
+}
+
+.thumbnailimage{
+  max-height:300px;
+  max-width:300px;
+  
+}
+
+.page-scroll{
+  background-color:#E4AAF7;
+}
+
+.thumbnail_img{
+  max-height:600px;
+  max-width:500px;
+  
+}
+
+.thumbnail_imn{
+  max-height:600px;
+  max-width:300px;
+  align:;
+}
+
+.thumbnail_facebook{
+  max-height:300px;
+  max-width:200px;
+}
 
 /**********************************
 NAVIGATION 
