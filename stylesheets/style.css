@@ -47,6 +47,34 @@ GENERAL
   max-width:200px;
 }
 
+.thumbnail_book{
+  max-height:600px;
+  max-width:300px;
+}
+
+.thumbnail_poster{
+  max-height:600px;
+  max-width:300px;
+  text-align:center;
+}
+
+.thumbnail_shadow{
+  max-height:300px;
+  max-width:300px;
+  
+}
+
+.thumbnail_mma1{
+  max-height:300px;
+  max-width:300px;
+  
+}
+
+.thumbnail_mma2{
+  max-height:300px;
+  max-width:300px;
+  
+}
 /**********************************
 NAVIGATION 
 ***********************************/
